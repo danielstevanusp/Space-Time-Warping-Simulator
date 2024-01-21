@@ -1,6 +1,3 @@
-space-time warping simulator
-
-description:
 the space-time warping simulator is a python program that aims to demonstrate the concept of space and time curvature as predicted by einstein's general theory of relativity. this tool simplifies the intricate physics into a visual representation, allowing users to explore the bending of space and time caused by gravitational effects.
 
 how to use:
